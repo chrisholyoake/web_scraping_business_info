@@ -1,2 +1,2 @@
 # web_scraping_business_info
-Pulling data from bizhwy.com
+Using a Jupyter Notebook to pull data from bizhwy.com
